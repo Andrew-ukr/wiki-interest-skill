@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+wiki-reports/
+wiki-interest-research/evals/.runs/
+.DS_Store
